@@ -1,2 +1,2 @@
-# PRO-C170
-Solution Code for PRO-C170
+# C170 -Connecting A-Frame & Database
+Code for PRO-C170
